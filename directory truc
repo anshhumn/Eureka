@@ -1,0 +1,12 @@
+eureka-website/
+├── index.html
+├── styles.css
+├── script.js
+├── images/
+    ├── image1.jpg
+    ├── image2.jpg
+    ├── image3.jpg
+    ├── image4.jpg
+    freshers24_1.jpg
+    freshers24_2.jpg
+    ...
